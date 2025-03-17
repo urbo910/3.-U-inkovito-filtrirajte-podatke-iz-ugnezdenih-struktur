@@ -1,0 +1,14 @@
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\bin\Debug\net8.0\Programerski iziv naloga.exe
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\bin\Debug\net8.0\Programerski iziv naloga.deps.json
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\bin\Debug\net8.0\Programerski iziv naloga.runtimeconfig.json
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\bin\Debug\net8.0\Programerski iziv naloga.dll
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\bin\Debug\net8.0\Programerski iziv naloga.pdb
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\Programerski iziv naloga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\Programerski iziv naloga.AssemblyInfoInputs.cache
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\Programerski iziv naloga.AssemblyInfo.cs
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\Programerski iziv naloga.csproj.CoreCompileInputs.cache
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\Programerski iziv naloga.dll
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\refint\Programerski iziv naloga.dll
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\Programerski iziv naloga.pdb
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\Programerski iziv naloga.genruntimeconfig.cache
+C:\Users\Urban\source\repos\Programerski iziv naloga\Programerski iziv naloga\obj\Debug\net8.0\ref\Programerski iziv naloga.dll
